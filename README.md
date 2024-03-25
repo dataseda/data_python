@@ -1,1 +1,1 @@
-# data_python includes some basic pyhton data handling practices
+# data_python includes some basic python data handling practices
